@@ -1,5 +1,3 @@
-using System.Data.Entity;
-using DataAccess;
 
 namespace BreakAwayConsole
 {
@@ -9,9 +7,15 @@ namespace BreakAwayConsole
 		{
 			App_Start.EntityFrameworkProfilerBootstrapper.PreStart();
 
-			Database.SetInitializer(new InitializeBagaDatabaseWithSeedData());
+			//Database.SetInitializer(new InitializeBagaDatabaseWithSeedData());
 
-			Query.Query.PrintAllDestination();
+			//Query.Query.PrintAllDestination();
+			//Query.Query.PrintAllDestinationTwise();
+			//Query.Query.PrintAllDestinationSorted();
+			//Query.Query.PrintAllDestinationSortedInList();
+			//Query.Query.PrintAustralianDestination();
+			Query.Query.PrintDestinationNameOnly();
+
 			System.Console.ReadLine();
 		}
 	}
