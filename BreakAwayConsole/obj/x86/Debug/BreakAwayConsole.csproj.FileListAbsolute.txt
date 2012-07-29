@@ -10,3 +10,4 @@ D:\Dev\Context\StartingSolution\BreakAwayConsole\bin\Debug\Model.pdb
 D:\Dev\Context\StartingSolution\BreakAwayConsole\bin\Debug\EntityFramework.xml
 D:\Dev\Context\StartingSolution\BreakAwayConsole\obj\x86\Debug\BreakAwayConsole.exe
 D:\Dev\Context\StartingSolution\BreakAwayConsole\obj\x86\Debug\BreakAwayConsole.pdb
+D:\Dev\Context\StartingSolution\BreakAwayConsole\bin\Debug\HibernatingRhinos.Profiler.Appender.v4.0.dll
