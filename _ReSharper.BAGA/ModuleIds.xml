@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="B6C7E7A0-61C6-4A1E-8A09-74C5AF92F5D9" ModuleId="DataAccess" />
+  <Module PersistentId="C85CF9D6-43CA-4B97-B28A-A319C316D136" ModuleId="Model" />
+  <Module PersistentId="0BAE8310-6470-4A48-A901-7CB88D0E39CF" ModuleId="BreakAwayConsole" />
+</Modules>

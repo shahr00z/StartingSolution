@@ -1,0 +1,8 @@
+D:\Dev\Context\StartingSolution\Model\bin\Debug\Model.dll.config
+D:\Dev\Context\StartingSolution\Model\bin\Debug\Model.dll
+D:\Dev\Context\StartingSolution\Model\bin\Debug\Model.pdb
+D:\Dev\Context\StartingSolution\Model\bin\Debug\EntityFramework.dll
+D:\Dev\Context\StartingSolution\Model\bin\Debug\EntityFramework.xml
+D:\Dev\Context\StartingSolution\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Dev\Context\StartingSolution\Model\obj\Debug\Model.dll
+D:\Dev\Context\StartingSolution\Model\obj\Debug\Model.pdb

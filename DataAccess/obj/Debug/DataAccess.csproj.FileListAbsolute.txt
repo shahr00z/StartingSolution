@@ -1,0 +1,9 @@
+D:\Dev\Context\StartingSolution\DataAccess\bin\Debug\DataAccess.dll
+D:\Dev\Context\StartingSolution\DataAccess\bin\Debug\DataAccess.pdb
+D:\Dev\Context\StartingSolution\DataAccess\bin\Debug\EntityFramework.dll
+D:\Dev\Context\StartingSolution\DataAccess\bin\Debug\Model.dll
+D:\Dev\Context\StartingSolution\DataAccess\bin\Debug\Model.pdb
+D:\Dev\Context\StartingSolution\DataAccess\bin\Debug\EntityFramework.xml
+D:\Dev\Context\StartingSolution\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Dev\Context\StartingSolution\DataAccess\obj\Debug\DataAccess.dll
+D:\Dev\Context\StartingSolution\DataAccess\obj\Debug\DataAccess.pdb

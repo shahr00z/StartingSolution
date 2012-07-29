@@ -1,0 +1,5 @@
+2012-07-29 00:01:48,563 [1] INFO  Rhino.Licensing.AbstractLicenseValidator [(null)] - License expiration date is 07/09/2012 00:00:00
+2012-07-29 00:03:31,409 [1] INFO  Rhino.Licensing.AbstractLicenseValidator [(null)] - License expiration date is 07/09/2012 00:00:00
+2012-07-29 00:06:48,670 [7] INFO  Rhino.Licensing.AbstractLicenseValidator [(null)] - License expiration date is 07/09/2012 00:00:00
+2012-07-29 00:06:48,673 [7] ERROR Rhino.Licensing.AbstractLicenseValidator [(null)] - The license have expired and can no longer be used
+2012-07-29 00:06:48,677 [7] INFO  HibernatingRhinos.Profiler.Client.Model.LicensingModel [(null)] - Got invalidation notification TimeExpired
