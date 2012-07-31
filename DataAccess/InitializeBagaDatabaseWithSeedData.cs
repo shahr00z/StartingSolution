@@ -28,7 +28,7 @@ namespace DataAccess
       {
         Name = "Great Barrier Reef",
         Description = "Beautiful coral reef.",
-        Country = "Australia"
+		Country = "Australia"
       });
 
       context.Destinations.Add(new Destination

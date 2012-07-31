@@ -1,11 +1,27 @@
 ﻿<RecentFiles>
   <RecentFiles>
+    <File id="B6C7E7A0-61C6-4A1E-8A09-74C5AF92F5D9/f:InitializeBagaDatabaseWithSeedData.cs" caret="960" fromTop="21" />
     <File id="B6C7E7A0-61C6-4A1E-8A09-74C5AF92F5D9/f:BreakAwayContext.cs" caret="0" fromTop="0" />
-    <File id="B6C7E7A0-61C6-4A1E-8A09-74C5AF92F5D9/f:InitializeBagaDatabaseWithSeedData.cs" caret="413" fromTop="15" />
-    <File id="0BAE8310-6470-4A48-A901-7CB88D0E39CF/f:Program.cs" caret="300" fromTop="15" />
+    <File id="0BAE8310-6470-4A48-A901-7CB88D0E39CF/f:Program.cs" caret="533" fromTop="13" />
+    <File id="0BAE8310-6470-4A48-A901-7CB88D0E39CF/d:Query/f:Query.cs" caret="8692" fromTop="18" />
+    <File id="C85CF9D6-43CA-4B97-B28A-A319C316D136/f:Activity.cs" caret="118" fromTop="5" />
+    <File id="C85CF9D6-43CA-4B97-B28A-A319C316D136/f:Address.cs" caret="100" fromTop="5" />
+    <File id="C85CF9D6-43CA-4B97-B28A-A319C316D136/f:Destination.cs" caret="766" fromTop="28" />
+    <File id="C85CF9D6-43CA-4B97-B28A-A319C316D136/f:Hostel.cs" caret="165" fromTop="7" />
+    <File id="C85CF9D6-43CA-4B97-B28A-A319C316D136/f:InternetSpecial.cs" caret="470" fromTop="0" />
+    <File id="C85CF9D6-43CA-4B97-B28A-A319C316D136/f:Lodging.cs" caret="962" fromTop="29" />
+    <File id="C85CF9D6-43CA-4B97-B28A-A319C316D136/f:Measurement.cs" caret="140" fromTop="0" />
+    <File id="C85CF9D6-43CA-4B97-B28A-A319C316D136/f:Payment.cs" caret="319" fromTop="17" />
+    <File id="C85CF9D6-43CA-4B97-B28A-A319C316D136/f:Person.cs" caret="456" fromTop="13" />
+    <File id="C85CF9D6-43CA-4B97-B28A-A319C316D136/f:PersonalInfo.cs" caret="267" fromTop="11" />
+    <File id="C85CF9D6-43CA-4B97-B28A-A319C316D136/f:PersonPhoto.cs" caret="364" fromTop="16" />
+    <File id="C85CF9D6-43CA-4B97-B28A-A319C316D136/f:Reservation.cs" caret="469" fromTop="15" />
+    <File id="C85CF9D6-43CA-4B97-B28A-A319C316D136/f:Resort.cs" caret="205" fromTop="10" />
+    <File id="C85CF9D6-43CA-4B97-B28A-A319C316D136/f:Trip.cs" caret="656" fromTop="22" />
   </RecentFiles>
   <RecentEdits>
-    <File id="0BAE8310-6470-4A48-A901-7CB88D0E39CF/f:Program.cs" caret="300" fromTop="12" />
-    <File id="B6C7E7A0-61C6-4A1E-8A09-74C5AF92F5D9/f:InitializeBagaDatabaseWithSeedData.cs" caret="539" fromTop="14" />
+    <File id="B6C7E7A0-61C6-4A1E-8A09-74C5AF92F5D9/f:InitializeBagaDatabaseWithSeedData.cs" caret="833" fromTop="12" />
+    <File id="0BAE8310-6470-4A48-A901-7CB88D0E39CF/f:Program.cs" caret="533" fromTop="13" />
+    <File id="0BAE8310-6470-4A48-A901-7CB88D0E39CF/d:Query/f:Query.cs" caret="10150" fromTop="19" />
   </RecentEdits>
 </RecentFiles>

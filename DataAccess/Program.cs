@@ -14,7 +14,8 @@ namespace BreakAwayConsole
 			//Query.Query.PrintAllDestinationSorted();
 			//Query.Query.PrintAllDestinationSortedInList();
 			//Query.Query.PrintAustralianDestination();
-			Query.Query.LoadAustralianAndUSADestination();
+			Query.Query.GetLocalDestinationCount();
+
 			System.Console.ReadLine();
 
 		}
